@@ -1,0 +1,6 @@
+c:\users\cloneruler\documents\visual studio 2017\Projects\ResourceMonitor\ResourceMonitor\bin\Debug\ResourceMonitor.exe.config
+c:\users\cloneruler\documents\visual studio 2017\Projects\ResourceMonitor\ResourceMonitor\bin\Debug\ResourceMonitor.exe
+c:\users\cloneruler\documents\visual studio 2017\Projects\ResourceMonitor\ResourceMonitor\bin\Debug\ResourceMonitor.pdb
+c:\users\cloneruler\documents\visual studio 2017\Projects\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor.csprojResolveAssemblyReference.cache
+c:\users\cloneruler\documents\visual studio 2017\Projects\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor.exe
+c:\users\cloneruler\documents\visual studio 2017\Projects\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor.pdb
